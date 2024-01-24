@@ -111,6 +111,7 @@ A list of Text/Img-to-3D works. This repo mainly contains the 3D learning from 2
   
 - [HyperFields:Towards Zero-Shot Generation of NeRFs from Text](https://threedle.github.io/hyperfields/static/pdf/hyperfields.pdf) Sudarshan Babu, et al., Arxiv 2023 | [project page](https://threedle.github.io/hyperfields/)
 
+- [Decorate3D: Text-Driven High-Quality Texture Generation for Mesh Decoration in the Wild](https://openreview.net/pdf?id=1recIOnzOF) Yanhui Guo, et al., NeurIPS 2023 | [project page](https://decorate3d.github.io/Decorate3D/)
 </details>
 
 <details open>
